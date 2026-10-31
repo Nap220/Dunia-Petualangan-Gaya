@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Dunia Gaya",
+  "description": "Media pembelajaran interaktif IPA berbasis simulasi fisika tentang gaya dan pengaruhnya terhadap gerak benda untuk siswa Sekolah Dasar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
